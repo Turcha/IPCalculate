@@ -1,0 +1,9 @@
+C:\Users\archC\source\repos\NetworkCalculate\bin\Debug\NetworkCalculate.exe
+C:\Users\archC\source\repos\NetworkCalculate\bin\Debug\NetworkCalculate.pdb
+C:\Users\archC\source\repos\NetworkCalculate\obj\Debug\NetworkCalculate.csprojAssemblyReference.cache
+C:\Users\archC\source\repos\NetworkCalculate\obj\Debug\NetworkCalculate.Form1.resources
+C:\Users\archC\source\repos\NetworkCalculate\obj\Debug\NetworkCalculate.Properties.Resources.resources
+C:\Users\archC\source\repos\NetworkCalculate\obj\Debug\NetworkCalculate.csproj.GenerateResource.cache
+C:\Users\archC\source\repos\NetworkCalculate\obj\Debug\NetworkCalculate.csproj.CoreCompileInputs.cache
+C:\Users\archC\source\repos\NetworkCalculate\obj\Debug\NetworkCalculate.exe
+C:\Users\archC\source\repos\NetworkCalculate\obj\Debug\NetworkCalculate.pdb
